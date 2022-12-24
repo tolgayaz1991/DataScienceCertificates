@@ -26,3 +26,9 @@ https://courses.cognitiveclass.ai/certificates/6d8f99d51ca44bc796bc38f2a1c45586
 
 ---
 
+### 4. Sensor Fusion and Non-linear Filtering for Automotive Systems
+
+#### - Link to Certificate:
+
+https://courses.edx.org/certificates/16a9bda14b404b22aa41969531f6bae2
+
